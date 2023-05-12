@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+	background: lightcoral;
+}
+
+h1,
+h2,
+h3,
+p {
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	color: white;
+}
+
+h2#title2 {
+	color: yellow
+}
+
+h3.title3 {
+	color: blue
+}
+
+ul.menu li {
+	list-style-type: none;
+}
+
+.container { 
+	height: 100vh;
+}
